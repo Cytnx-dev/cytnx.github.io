@@ -1,0 +1,17 @@
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+   - title: "Home"
+     url: /index.html
+   - title: "About"
+     url: /about/
+   - title: "Documentation"
+     url: http://cytnx-dev.github.io/Cytnx_doc/
+   - title: "Usuer Guide"
+     url: /userguide/
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
